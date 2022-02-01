@@ -1,2 +1,3 @@
 # lorynuker
 Beta 5 in the releases!
+WARNING!!! Beta 5 was removed for an error in the code!!! I am gonna release Beta 6 soon...
